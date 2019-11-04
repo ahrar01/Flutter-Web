@@ -34,3 +34,12 @@ lib/generated_plugin_registrant.dart
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
+.firebase/hosting.d2Vi.cache
+.firebase/hosting.cHVibGlj.cache
+firebase.json
+.firebaserc
+public/404.html
+public/index.html
+web/404.html
+web/index.html
+.firebase/hosting.YnVpbGQ.cache
